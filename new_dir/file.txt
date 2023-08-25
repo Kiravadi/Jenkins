@@ -1,1 +1,2 @@
 This file will be automatically pulled by jenkins
+#Adding new line to check if git is connected to jenkins server
